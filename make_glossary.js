@@ -1,5 +1,4 @@
 ;(function(w){
-
 /*
 tocEl - the id of an element to place the glossary into
 tocTerm - the word that will be used for # links and ids
@@ -22,5 +21,4 @@ if(!w.makeGloss) {
         });
     }
 }
-
 })(window);
